@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'channels',
     'celery',
     'djcelery_email',
+
 ]
 
 MIDDLEWARE = [
